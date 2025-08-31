@@ -1,7 +1,8 @@
 Resolusi IT Project :
 - Wawancara stakeholder
 - Pengumpulan Data
-- Brainstroming dengan Tim
 - Membuat Backend
 - Membuat Frontend
 - Membuat Database
+- Frameworking UI/UX
+- Testing Program
